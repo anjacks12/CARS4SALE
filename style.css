@@ -1,0 +1,59 @@
+body {
+    background-color:rgb(101, 101, 185);
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+h1 {
+    font-size: 50px; 
+    color: darkblue;
+    text-align: center;
+
+}
+h2 {
+    font-size: 25px;
+    color: darkblue;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+nav ul {
+    margin: 0;
+    font-size: 25px;
+    padding: 0;
+}
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 325px;
+    margin-right: 325px;
+}
+nav li a {
+    color: darkblue;
+}
+main {
+    width: 960px;
+    margin: 30px auto;
+    min-height: 700px;
+}
+#hero{
+    width: 800px;
+    height: 500px;
+    margin-left: 75px;
+    margin-bottom: 25px;
+}
+p {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+footer {
+    margin: 0;
+    padding: 0;
+    margin-top: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+ul h3 {
+    margin: 0;
+}
